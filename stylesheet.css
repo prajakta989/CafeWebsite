@@ -13,7 +13,7 @@ body{
 }
 
 .header {
-  background: url("Images/annie-spratt-R3LcfTvcGWY-unsplash.jpg") no-repeat
+  background: url("annie-spratt-R3LcfTvcGWY-unsplash.jpg") no-repeat
     center center/cover;
   width: 100%;
   height: 56rem;
@@ -112,7 +112,7 @@ ul li {
 .menu {
   width: 100%;
   height: auto;
-  background: url("images/hassan-ghasemi-Ftd0Hz0yJ_s-unsplash.jpg") no-repeat
+  background: url("hassan-ghasemi-Ftd0Hz0yJ_s-unsplash.jpg") no-repeat
     center center/cover;
   color: #fff;
   display: flex;
